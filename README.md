@@ -7,7 +7,6 @@ The app is built using HTML, CSS, JavaScript, JSP, and Servlets, and it fetches 
 ## Features
 
 - **Current Weather**: View the current weather conditions, including temperature, humidity, wind speed, etc., for a selected location.
-- **Weather Forecast**: Check the weather forecast for the upcoming days to plan ahead.
 - **Location Search**: Search for weather information by entering the name of a city or town.
 - **Responsive Design**: The app is designed to be responsive and works seamlessly across various devices and screen sizes.
 
